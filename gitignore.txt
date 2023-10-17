@@ -1,0 +1,12 @@
+_pycache_
+.spyproject
+.streamlit
+*.csv
+*.html
+resultado.xlsx
+pOWERbIAVZANDO.pbix
+Tablero de Costos Y Compras.pbix
+archivos_procesados.xlsx
+archivos_procesados (2).xlsx
+output_dataframes.xlsx
+resultado.csv
